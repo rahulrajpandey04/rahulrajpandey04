@@ -3,4 +3,4 @@
 💻 CSE Student  
 🌱 Learning Web Development  
 🚀 Skills: HTML, CSS, JavaScript  
-🎯 Goal: Become Full Stack Develope
+🎯 Goal: Become Full Stack Developer
